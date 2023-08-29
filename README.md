@@ -2,4 +2,4 @@
 <br>
 this is first git repository,
 <br>
-Author - Anish Pal
+Author - Anish Pal (Amaani Clone)
