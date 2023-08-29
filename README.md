@@ -1,2 +1,3 @@
 # front-End-React-Project-
-this is first college project
+this is first  project
+Author - Anish Pal
